@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aseelps)
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-p-s-aba880120/)
 
-:wave: Hi there, Myself Aseel P Sathar. I'm 21 years old, BSc EEM student.
+:wave: Hi there, Myself Aseel P Sathar. I'm 22 years old, BSc EEM student.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <table>
