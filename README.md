@@ -3,6 +3,8 @@
 
 [![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aseelpsathar@gmail.com)
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aseelps)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aseelpsathar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aseelpsathar/)
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-p-s-aba880120/)
 
 :wave: I'm Aseel P Sathar. 23 Years Old . Working as Software Development Engineer in Test at [JitTec Technology Services](http://www.jittec.com). Certified Ethical Hacker (CEH). Experimenting on Programming and Linux. Android Enthusiast, Self-learning mor, Photographer.
