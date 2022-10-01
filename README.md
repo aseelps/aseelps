@@ -49,6 +49,7 @@
 </table>
 
 ![aseelps's github stats](https://github-readme-stats.vercel.app/api?username=aseelps&hide=["issues"]&show_icons=true&bg_color=black)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseelps&layout=compact)](https://github.com/aseelps/github-readme-stats)
 ---
 
 ⚠️ Inspired from other Respositories on Github
