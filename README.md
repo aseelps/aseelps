@@ -38,6 +38,12 @@
       <td width="25%" align="center">
       <span><b>CEH</span><br><br><br>
       <img height="64px" src="https://i.ibb.co/FVyxZLR/CEH1.jpg"></td>
+      <td width="25%" align="center">
+      <span><b>Java</span><br><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/java.svg"></td>
+      <td width="25%" align="center">
+      <span><b>Appium</span><br><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/appium.svg"></td>  
     </tr>   
   </tbody>
 </table>
