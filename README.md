@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aseelpsathar/)
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-p-s-aba880120/)
 
-:wave: I'm Aseel P Sathar. 23 Years Old . Working as Software Development Engineer in Test at [JitTec Technology Services](http://www.jittec.com). Certified Ethical Hacker (CEH). Experimenting on Programming and Linux. Android Enthusiast, Self-learning mor, Photographer.
+:wave: I'm Aseel P Sathar. 23 Years Old. DevOps Engineer / IT Consultant. Certified Ethical Hacker (CEH). Experimenting with Programming and Linux. Android Enthusiast, Self-learning more, Photographer.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <table>
