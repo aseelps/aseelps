@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,nextjs,py,django,flask,supabase,postgres,aws,docker,linux,bash,git,kali&theme=dark&perline=7" alt="Current Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=flutter,nextjs,py,django,flask,supabase,postgres,aws,docker,linux,arch,manjaro,bash,git,kali&theme=dark&perline=8" alt="Current Tech Stack" />
   </a>
 </p>
 
